@@ -1,0 +1,11 @@
+Model Information:
+* title:	HouseholdPropsChallenge - 02 - Desk
+* source:	https://sketchfab.com/3d-models/householdpropschallenge-02-desk-787f7e111f9b4c999d7c7de6db811f4a
+* author:	beagleknight (https://sketchfab.com/beagleknight)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HouseholdPropsChallenge - 02 - Desk" (https://sketchfab.com/3d-models/householdpropschallenge-02-desk-787f7e111f9b4c999d7c7de6db811f4a) by beagleknight (https://sketchfab.com/beagleknight) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
